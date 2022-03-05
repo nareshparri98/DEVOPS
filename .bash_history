@@ -110,3 +110,65 @@ ls.al
 ls -al
 touch file5
 vim
+ls
+la -al
+ls -al
+vim file5
+cat file5
+git add .
+ll
+ls -al
+git status
+git add .
+git commit -m " fifth commit".
+git log
+git status
+touch file6
+vim file6
+cat file6
+ls
+ls -al
+git add. file6
+git add .file6
+git add file6
+git commit -m" sixth commit" file6
+git commit -m " sixth commit".
+git status
+ls
+ls -al
+git add.
+git commit -m" hi".
+git status
+git log
+yum install git -y
+git --version
+ls
+ls -al
+git status
+git add file7
+git add .file7
+touch file7
+ls
+vim file7
+ls
+cat file7
+git commit -m "7th commit" file7
+git add file7
+git commit -m "7th commit" file7
+ls
+ls -al
+git commit -m "7th commit".
+ls -l
+ls-l
+ls -l
+ls -al
+git statu
+git status
+clear
+git fie7
+ls
+ls -al
+git status
+gt --version
+git --version
+clear
